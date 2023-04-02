@@ -1,0 +1,43 @@
+.heading{
+    text-align: center;
+    
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.border{
+    border-bottom: 3px solid brown;
+    margin-left: 250px;
+    margin-right: 250px;
+    
+
+}
+.buttons{
+    text-align: center;
+    margin-top: 20px;
+}
+.itemsone{
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    display: flex;
+    
+}
+.one{
+    position: relative;
+    margin-left: 30px;
+}
+.two{
+    position: relative;
+    margin-left: auto;
+    margin-right: 30px;
+}
+.itemstwo{
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    display: flex;
+    padding-bottom: 3cm;
+}
